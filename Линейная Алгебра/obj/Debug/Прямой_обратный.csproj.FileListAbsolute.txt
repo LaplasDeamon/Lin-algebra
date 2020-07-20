@@ -1,0 +1,14 @@
+C:\Users\shaki\source\repos\Прямой_обратный\Прямой_обратный\bin\Debug\Прямой_обратный.exe.config
+C:\Users\shaki\source\repos\Прямой_обратный\Прямой_обратный\bin\Debug\Прямой_обратный.exe
+C:\Users\shaki\source\repos\Прямой_обратный\Прямой_обратный\bin\Debug\Прямой_обратный.pdb
+C:\Users\shaki\source\repos\Прямой_обратный\Прямой_обратный\obj\Debug\Прямой_обратный.csprojAssemblyReference.cache
+C:\Users\shaki\source\repos\Прямой_обратный\Прямой_обратный\obj\Debug\Прямой_обратный.exe
+C:\Users\shaki\source\repos\Прямой_обратный\Прямой_обратный\obj\Debug\Прямой_обратный.pdb
+C:\Users\shaki\source\repos\Прямой_обратный\Прямой_обратный\obj\Debug\Прямой_обратный.csproj.CoreCompileInputs.cache
+C:\Users\shaki\source\repos\численные методы\1_2_3_лабы\Прямой_обратный\obj\Debug\Прямой_обратный.csprojAssemblyReference.cache
+C:\Users\shaki\source\repos\численные методы\1_2_3_лабы\Прямой_обратный\obj\Debug\Прямой_обратный.csproj.CoreCompileInputs.cache
+C:\Users\shaki\source\repos\численные методы\1_2_3_лабы\Прямой_обратный\obj\Debug\Прямой_обратный.exe
+C:\Users\shaki\source\repos\численные методы\1_2_3_лабы\Прямой_обратный\obj\Debug\Прямой_обратный.pdb
+C:\Users\shaki\source\repos\численные методы\1_2_3_лабы\Прямой_обратный\bin\Debug\Прямой_обратный.exe.config
+C:\Users\shaki\source\repos\численные методы\1_2_3_лабы\Прямой_обратный\bin\Debug\Прямой_обратный.exe
+C:\Users\shaki\source\repos\численные методы\1_2_3_лабы\Прямой_обратный\bin\Debug\Прямой_обратный.pdb
